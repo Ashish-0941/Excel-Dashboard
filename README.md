@@ -27,7 +27,7 @@ This Excel dashboard project visualizes sales performance across regions, produc
 4. Check the visual trends, KPIs, and summary charts.
 
 ## 📷 Preview 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](https://github.com/Ashish-0941/Excel-Dashboard/blob/main/Screenshot%202025-07-10%20091938.png)
 
 ## 📌 Author
 **Ashish Kashyap**  
